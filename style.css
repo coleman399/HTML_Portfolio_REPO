@@ -1,0 +1,94 @@
+body {
+    background-color: white;
+}
+header > div {
+    color: black
+}
+p {
+    color: red;
+}
+header {
+    width: 300px;
+    border: 1px solid black;
+    padding: 10px;
+    margin: 25px;
+    background-color: white;
+    text-align: center;
+    justify-content: center;
+    font-size: 28px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;  
+}
+body {
+    border: 1px solid black;
+}
+hr.solid_black_line_under_header {
+    border: 1px solid black;
+}
+div.box_around_navigation_bar {
+    border: 1px solid black;
+    width: 1800px;
+    padding: 30px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+a.links {
+    margin-left: 100px;
+    margin-right: 100px;
+    color: black;
+}
+img.self_photo {
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10px;
+    height: 500px;
+    width: 575px;
+    border: 1px solid black;
+}
+aside.project_box {
+    margin-right: auto;
+    margin-left: auto;
+    margin-bottom: 10px;
+    margin-top: 10px;
+    border: 1px solid black;
+    height: 795px;
+    width: 575px;
+}
+aside.tool_kit {
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 10px;
+    border: 1px solid black;
+    height: 500px;
+    width: 575px;
+}
+div.flex-container {
+    display: flex;
+    flex-wrap: nowrap;
+    margin-right: auto;
+    margin-left: auto;
+}
+div.about_me_box {
+    height: 260px;
+    width: 575px;
+    margin-top: 30px;
+    margin-bottom: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    border: 1px solid black;
+}
+div.contact {
+    height: 260px;
+    width: 575px;
+    margin-top: 33px;
+    margin-bottom: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    border: 1px solid black;
+}
+div.divider {
+    margin-left: auto;
+    margin-right: auto;
+}
