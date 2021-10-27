@@ -85,10 +85,29 @@ div.about_me {
     width: 575px;
     border: 1px solid black;
 }
+p.about_me_paragraph {
+    margin-left: 25px;
+    margin-right: 25px;
+    text-indent: 25px;
+    line-height: 2;
+}
 aside.tool_kit {
     height: 500px;
     width: 575px;
     border: 1px solid black;
+}
+li.tool_kit_list:before {
+    content: '✓';
+    margin-right: 10px;
+}
+li.tool_kit_list {
+    margin-top: 25px;
+    margin-bottom: 25px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: auto;
+    text-align: center;
+    list-style-type: none;
 }
 div.contact {
     margin-bottom: 30px;
@@ -96,4 +115,42 @@ div.contact {
     height: 260px;
     width: 575px;
     border: 1px solid black;
+}
+a.contact_links {
+    margin-top: auto;
+    margin-bottom: auto;
+    margin-left: auto;
+    margin-right: auto;
+    display: grid;
+    padding: auto;
+    text-decoration: none;
+    text-align: center;
+    font-size: medium;
+    color: black;
+}
+button.github_button {
+    margin-top: 20px;
+    margin-bottom: 50px;
+    margin-left: 255px;
+    padding: auto;
+    height: 30px;
+    background: white;
+    cursor: pointer;
+    display: block;
+}
+button.github_button:hover {
+    background: blue;
+}
+button.resume_button {
+    margin-top: 20px;
+    margin-bottom: 50px;
+    margin-left: 251px;
+    padding: auto;
+    height: 30px;
+    background: white;
+    cursor: pointer;
+    display: block;
+}
+button.resume_button:hover {
+    background: blue;
 }
