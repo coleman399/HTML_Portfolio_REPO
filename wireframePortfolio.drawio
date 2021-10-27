@@ -35,7 +35,7 @@
                     <mxGeometry x="249" y="640" width="591" height="180" as="geometry"/>
                 </mxCell>
                 <mxCell id="677b7b8949515195-16" value="ppp" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.graphics.simpleIcon;strokeColor=#999999;rounded=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=14;fontColor=#000000;comic=1;" parent="1" vertex="1">
-                    <mxGeometry x="255" y="180" width="590" height="450" as="geometry"/>
+                    <mxGeometry x="250" y="180" width="590" height="450" as="geometry"/>
                 </mxCell>
                 <mxCell id="677b7b8949515195-25" value="" style="whiteSpace=wrap;html=1;rounded=0;shadow=0;labelBackgroundColor=none;strokeWidth=1;fillColor=none;fontFamily=Verdana;fontSize=12;align=center;comic=1;" parent="1" vertex="1">
                     <mxGeometry x="850" y="180" width="220" height="450" as="geometry"/>
