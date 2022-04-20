@@ -1,4 +1,6 @@
 # devCodeCamp First HTML project
+![Screenshot (36)](https://user-images.githubusercontent.com/91759734/140571655-a5c90fce-92b0-47ee-a2ec-e56cd8a52da8.png)
+
 
 Hosting: When creating your GitHub repository for this project, be sure to:
 
